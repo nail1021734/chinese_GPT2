@@ -1,5 +1,4 @@
-# ILM
-訓練方法參考自[Enabling Language Models to Fill in the Blanks](https://aclanthology.org/2020.acl-main.225/)
+# GPT2
 
 ## 程式架構
 
