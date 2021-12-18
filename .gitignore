@@ -1,0 +1,8 @@
+**/.venv
+**/checkpoint
+**/dataset
+**/__pycache__
+**/utils/__pycache__
+*.lock
+**/.vscode
+MN_data.md
